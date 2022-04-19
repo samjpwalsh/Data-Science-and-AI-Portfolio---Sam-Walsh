@@ -34,6 +34,7 @@ This portfolio provides a brief description of the Data Science and Artificial I
 - Algorithm used for classification is Naive Bayes, using a binary bag-of-words model
 - K-fold cross validation used to optimise the smoothing parameter, alpha
 
+
 # Other AI Related Projects:
 
 ## Title
