@@ -2,7 +2,7 @@ This portfolio provides a brief description of the Data Science and Artificial I
 
 # Data Science Projects:
 
-## Product Review Opinion Mining
+## [Product Review Opinion Mining](https://github.com/samjpwalsh/Product_Review_Opinion_Mining)
 
     - NLP task to extract product features and assign positive or negative sentiment to those features.
     - Data source is Amazon reviews of various products
