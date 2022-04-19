@@ -37,4 +37,22 @@ This portfolio provides a brief description of the Data Science and Artificial I
 
 # Other AI Related Projects:
 
-## Title
+## [Genetic Algorithm](https://github.com/samjpwalsh/Genetic_Algorithm)
+
+- Solution to the 8-queens puzzle (https://en.wikipedia.org/wiki/Eight_queens_puzzle) and generalisation to N-queens using a Genetic Algorithm
+- Algorithm explores the search space for solutions by simulating evolution by natural selection
+- Hyperparameters (mutation rate and population size) are optimised so the time taken to solve the problem is minimised
+- Minimal conflicts heuristic inspired by Heris and Oskoei (2014) is also introduced to avoid missing solutions which are close by in the search space, more information can be found here: https://ieeexplore.ieee.org/abstract/document/6802550
+
+## [Sudoku Solver](https://github.com/samjpwalsh/Sudoku_Solver)
+
+- This algorithm takes a 9x9 numpy array as input, if the array is a valid and solvable sudoku puzzle (with zeros in place of blank cells) it returns the solved puzzle, otherwise it returns a 9x9 array of zeros
+- The algorithm uses a backtracking depth first search, along with constraint satisfaction to find a valid solution
+- A detailed explaination of each part of the algorithm can be found in the detail.md file
+
+## [Enigma Machine Simulator](https://github.com/samjpwalsh/Enigma_Machine_Simulator)
+
+- Simulation of an Enigma Machine used by Nazi Germany during the second world war (https://en.wikipedia.org/wiki/Enigma_machine)
+- The code builds an Enigma Machine from scratch in a modular way, with the settings initialised when an instance of the class is created
+- This can be used to send encoded messages or decode messages from a physical enigma machine
+
