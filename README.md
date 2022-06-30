@@ -1,5 +1,16 @@
 # Data Science Projects:
 
+## [Deep Learning Image Classification](https://github.com/samjpwalsh/Deep_Learning_Image_Classification)
+
+   - Exploration of image classification using various neural network architectures
+   - Data visualisation using principle component analysis
+   - Binary classification using support vector machine
+   - Binary classification using linear perceptron
+   - Comparisons of various multi-layer perceptrons
+   - Comparisons of Convolutional Neural Networks
+   - CNN visualisation and how it can help in understanding CNN operations
+   - Multi-Task Learning
+
 ## [Product Review Opinion Mining](https://github.com/samjpwalsh/Product_Review_Opinion_Mining)
 
    - NLP task to extract product features and assign positive or negative sentiment to those features.
