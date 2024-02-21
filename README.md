@@ -1,5 +1,13 @@
 # Data Science Projects:
 
+## [MSc Dissertation - Exploration by Random Network Distillation in Sparse Reward MiniGrid Environments](https://github.com/samjpwalsh/msc_dissertation)
+
+   - Investigation of Intrinsic Motivation (specifically Random Network Distillation) as a method to encourage exploration for Reinforcement Learning agents
+   - A range of RL algorithms were applied including DQN, PPO and RND+PPO
+   - Investigations were completed in Minigrid environments (https://minigrid.farama.org/)
+   - Exploration was evaluated using both quantitative and qualitative measures
+   - A thorough review of state of the art RL literature was undertaken and grounded in RL theory.
+
 ## [Deep Learning Image Classification](https://github.com/samjpwalsh/Deep_Learning_Image_Classification)
 
    - Exploration of image classification using various neural network architectures
